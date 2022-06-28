@@ -1,2 +1,2 @@
 #!/bin/bash
-Redirections
+Variable expansions
